@@ -1,0 +1,38 @@
+GetPlayerTeamIntent {Athlete} team
+GetPlayerTeamIntent who does {Athlete} play for
+GetPlayerTeamIntent what team does {Athlete} play for
+GetPlayerTeamIntent what {Sport} team does {Athlete} play for
+GetPlayerTeamIntent what MLB team does {Athlete} play for
+GetPlayerTeamIntent what NBA team does {Athlete} play for
+GetPlayerTeamIntent what NFL team does {Athlete} play for
+GetPlayerTeamIntent what NHL team does {Athlete} play for
+GetPlayerTeamIntent what team does {Athlete} play on
+GetPlayerTeamIntent what {Sport} team does {Athlete} play on
+GetPlayerTeamIntent what MLB team does {Athlete} play on
+GetPlayerTeamIntent what NBA team does {Athlete} play on
+GetPlayerTeamIntent what NFL team does {Athlete} play on
+GetPlayerTeamIntent what NHL team does {Athlete} play on
+GetPlayerTeamIntent which team does {Athlete} play for
+GetPlayerTeamIntent which {Sport} team does {Athlete} play for
+GetPlayerTeamIntent which MLB team does {Athlete} play for
+GetPlayerTeamIntent which NBA team does {Athlete} play for
+GetPlayerTeamIntent which NFL team does {Athlete} play for
+GetPlayerTeamIntent which NHL team does {Athlete} play for
+GetPlayerTeamIntent which team does {Athlete} play on
+GetPlayerTeamIntent which {Sport} team does {Athlete} play on
+GetPlayerTeamIntent which MLB team does {Athlete} play on
+GetPlayerTeamIntent which NBA team does {Athlete} play on
+GetPlayerTeamIntent which NFL team does {Athlete} play on
+GetPlayerTeamIntent which NHL team does {Athlete} play on
+GetPlayerTeamIntent the team that {Athlete} plays for
+GetPlayerTeamIntent the {Sport} team that {Athlete} plays for
+GetPlayerTeamIntent the MLB team that {Athlete} plays for
+GetPlayerTeamIntent the NBA team that {Athlete} plays for
+GetPlayerTeamIntent the NFL team that {Athlete} plays for
+GetPlayerTeamIntent the NHL team that {Athlete} plays for
+GetPlayerTeamIntent the team that {Athlete} plays on
+GetPlayerTeamIntent the {Sport} team that {Athlete} plays on
+GetPlayerTeamIntent the MLB team that {Athlete} plays on
+GetPlayerTeamIntent the NBA team that {Athlete} plays on
+GetPlayerTeamIntent the NFL team that {Athlete} plays on
+GetPlayerTeamIntent the NHL team that {Athlete} plays on

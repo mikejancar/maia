@@ -1,0 +1,26 @@
+{
+    "intents": [
+        {
+            "intent": "GetPlayerTeamIntent",
+            "slots": [
+                {
+                    "name": "Athlete",
+                    "type": "AMAZON.Athlete"
+                },
+                {
+                    "name": "Sport",
+                    "type": "AMAZON.Sport"
+                }
+            ]
+        },
+        {
+            "intent": "AMAZON.HelpIntent"
+        },
+        {
+            "intent": "AMAZON.StopIntent"
+        },
+        {
+            "intent": "AMAZON.CancelIntent"
+        }
+    ]
+}

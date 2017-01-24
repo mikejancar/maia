@@ -1,0 +1,19 @@
+{
+  "name": "alexa-skill-maia",
+  "version": "1.0.0",
+  "description": "Maia is your source for sports knowledge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "sports"
+  ],
+  "author": "Michael Jancar",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}
